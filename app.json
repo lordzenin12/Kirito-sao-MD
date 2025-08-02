@@ -1,5 +1,5 @@
 {
-  "name": "Kirito-sao-MD",
+  "name": "LORD ZENIN BOTS",
   "description": "Javascript WhatsApp bot made by sung dev",
   "logo": "https://files.catbox.moe/j4vrw9.jpg",
   "keywords": ["MALVIN-XD","Kirito-sao-MD"],
@@ -13,7 +13,7 @@
       "value": ""
     },
       "BOT_NAME": {
-        "description": "write here your bot name.",
+        "description": "ZENIN BOTS XD.",
         "required": true,
         "value": "Kirito-sao-MD"      
     },  
